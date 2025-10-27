@@ -10,7 +10,7 @@
         "dev"
     ],
     "license": "MIT",
-    "require-dev": {
+    "require": {
         "laravel/pint": "^1.25"
     },
     "authors": [
@@ -19,5 +19,5 @@
             "email": "git@sam.et"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }

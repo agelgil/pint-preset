@@ -4,9 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "21a2e61836aedddbfe6a230b3dc8477a",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "9c0852f018ea20e782d08376d072a46b",
+    "packages": [
         {
             "name": "laravel/pint",
             "version": "v1.25.1",
@@ -74,6 +73,7 @@
             "time": "2025-09-19T02:57:12+00:00"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {},
