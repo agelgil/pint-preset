@@ -1,0 +1,11 @@
+{
+    "preset": "empty",
+    "risky": true,
+    "rules": {
+        "@PhpCsFixer:risky": true,
+        "header_comment": {
+            "comment_type": "PHPDoc",
+            "header": "This code is the property of Makiba General Trading PLC and is proprietary, confidential, and protected by law.\nAny reproduction, distribution, or unauthorized use is strictly forbidden without the prior written permission of Makiba General Trading PLC.\n\n(c) 2020-2025 Makiba General Trading PLC. All Rights Reserved."
+        }
+    }
+}

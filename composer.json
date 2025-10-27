@@ -1,0 +1,23 @@
+{
+    "name": "agelgil/pint-preset",
+    "description": "A shared Laravel Pint preset for Makiba General Trading PLC projects",
+    "type": "library",
+    "keywords": [
+        "makiba",
+        "agelgil",
+        "pint",
+        "preset",
+        "dev"
+    ],
+    "license": "MIT",
+    "require-dev": {
+        "laravel/pint": "^1.25"
+    },
+    "authors": [
+        {
+            "name": "Samson Endale",
+            "email": "git@sam.et"
+        }
+    ],
+    "minimum-stability": "dev"
+}
